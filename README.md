@@ -6,6 +6,9 @@ This Article Reading app is made using React and Ionic App. This is a clone of "
 ## Webiste
 Check out [this](https://snews-e8f4a.web.app/news) Link.
 
+##Image
+![](https://github.com/ssk090/articleReading/blob/main/ss1.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
