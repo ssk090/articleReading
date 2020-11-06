@@ -1,6 +1,6 @@
 # Article Reading App
 
-This Article Reading app is made using React and Ionic App. This is a clone of "Hacker News" App. You can view posts which are in trending, You can submit your own articles, you can search for any article and you can even login in using your google ID. This app is also responsive and can be opened in Android, iOS and Windows platform.
+This Article Reading app is made using React and Ionic App. This is a clone of "Hacker News" App. You can view posts which are in trending, You can submit your own articles, you can search for any article and you can even login in using your google ID. This app is also responsive and can be opened in Android, iOS and Windows platform. Once you are logged in you can submit links and even like the posts.
 
 
 ## Webiste
